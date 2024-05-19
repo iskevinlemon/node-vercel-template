@@ -1,4 +1,4 @@
-# node-vercel
+# node-vercel-template
 Template for deploying a Node JS app to Vercel
 
 > \[!IMPORTANT]\
